@@ -1,0 +1,12 @@
+{
+    "items":{
+        "0":[
+            {"name":"Egg", "value" : "1"},
+            {"name":"Gold Egg", "value" : "2"}
+        ],
+        "1":[
+            {"name":"Doggo", "value" : "1"},
+            {"name":"Big Doggo", "value" : "2"}
+        ]
+    }
+}

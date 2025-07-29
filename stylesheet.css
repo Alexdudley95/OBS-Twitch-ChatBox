@@ -1,0 +1,37 @@
+    body {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    h1 {
+        color: rgb(245, 172, 215);
+        margin-left: 10px;
+        width: 200px;
+    }
+
+    #chatbox {
+        display: flex;
+        flex-direction: column;
+        max-width: 500px;
+        height: max-content;
+
+    }
+
+    #chat {
+        font-family: monospace ;
+        width: auto;
+        height: auto;
+        max-width : 300px;
+        max-height: auto;
+        background-color: rgb(245, 201, 201);
+        border-radius: 20px;
+        border-color: rgb(194, 172, 186);
+        border-style: solid;
+        border-top:  4px solid;
+        border-left:    4px solid;
+        border-right: 0mm;
+        border-bottom: 0mm;
+        padding: 15px;
+        text-wrap: wrap;
+        font-size: 25px;
+        color: rgb(49, 48, 48);
+    }
