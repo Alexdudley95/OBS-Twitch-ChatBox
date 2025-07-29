@@ -5,3 +5,7 @@ A simple browser source plugin for OBS which displays a chat box on screen.
 https://twitchtokengenerator.com/
 
 Once setup, simply add the file as a browser source in OBS and use stylesheet.css to customise! 
+
+
+TODO: 
+- add functionality for fishing minigame 
